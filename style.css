@@ -1,0 +1,40 @@
+body{
+    background-image: url("image/aaron-burden-cEukkv42O40-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.Form-one{
+    position: relative;
+    max-width: 500px;
+    margin: 10px auto;
+    border:2px solid ;
+    padding: 10px;
+    background-color:#37547A;
+    
+
+}
+
+label{
+    margin:20px;
+    position: relative;
+    font-weight: bold;
+    font: size 30px;
+}
+input{
+    display: block;
+    width:40%;
+    padding: 20px;
+    margin-top:20px;
+    position:relative;
+    font-weight: bold;
+}
+
+
+button{
+    padding: 10px;
+    border-radius: 10%;
+    background-color:#19F4FD;
+    margin:40px;
+
+}
